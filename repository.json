@@ -4,7 +4,7 @@
         "display-name": "HelloWorld Lua",
         "description": "HelloWorld programm written in Lua",
         "author": "zimavi",
-        "link": "https://github.com/zimavi/WinttOS-pkg-repository/raw/refs/heads/main/bins/helloworld.cexe",
+        "link": "http://github.com/zimavi/WinttOS-pkg-repository/raw/refs/heads/main/bins/helloworld.cexe",
         "version": "1.0.0"
     }
 ]
