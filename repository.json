@@ -1,0 +1,10 @@
+[
+    {
+        "name": "hellowold",
+        "display-name": "HelloWorld Lua",
+        "description": "HelloWorld programm written in Lua",
+        "author": "zimavi",
+        "link": "",
+        "version": "1.0.0"
+    }
+]
